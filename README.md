@@ -8,4 +8,5 @@ git clone --recurse-submodules ssh://github.com/Valucor-AG/orsa-tool-dokumentati
 and then change into the directory.
 
 To test the site locally, first install [hugo extended](https://gohugo.io/), eg, via `winget install Hugo.Hugo.Extended`, and then run `hugo server` from the root of the directory.
-To deploy, just push the `main` branch to GitHub, the `hugo.yaml` workflow does the rest.
+
+*Assuming GitHub pages has been set up for the repository* (check under Setting > Pages), to deploy, just push the `main` branch to GitHub; the `hugo.yaml` workflow does the rest.
