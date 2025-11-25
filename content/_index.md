@@ -20,9 +20,7 @@ Das ORSA-Tool reduziert den ORSA-Prozess kleinerer Nichtleben- und Krankenversic
 
 Das ORSA-Tool besteht aus zwei Komponenten: dem Graphical User Interface (GUI) zur Solvenzberechnung und der ORSA-Input-Datei, in der die Finanzplanung gemacht wird und die Szenarien festgelegt werden.
 
-## Finanzplanung und Szenarienfestlegung
-
-**TODO**: Ekläre Interpretation der Jahre (eg, dass Bilanz \(N\) zum 1.1.\(N\) ist und dass Erfolgsrechnung \(N\) die Bilanz vom 1.1.\(N\) zum 1.1.\(N+1\) überführt.)
+## **TODO** Finanzplanung und Szenarienfestlegung
 
 ## Graphical User Interface (GUI)
 
